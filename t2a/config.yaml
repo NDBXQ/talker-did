@@ -1,0 +1,7 @@
+Doubao:
+  host: openspeech.bytedance.com
+  appid: "7157313955"
+  access_token: "JjiWw6Ji7gxPLZ-1Ft18sV2BCPUcw-gf"
+  cluster: "volcano_tts"
+  voice_type: "BV115_streaming"
+  
